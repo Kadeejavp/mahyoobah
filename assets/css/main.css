@@ -1534,7 +1534,7 @@ form .field-btn input{
 
 @media (max-width:365px) {
   .service-items{
-    padding-left: 1em;
+    padding-left: 0em;
   }
 }
 
