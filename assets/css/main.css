@@ -406,7 +406,7 @@ h6 {
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 400px) {
   .header .logo h3 {
     font-size: 15px;
   }
@@ -1514,13 +1514,13 @@ form .field-btn input{
     padding-left: 5em;
   }
 }
-@media (max-width:414px) {
+@media (max-width:460px) {
   .service-items{
     padding-left: 3em;
   }
 }
 
-@media (max-width:393px) {
+@media (max-width:400px) {
   .service-items{
     padding-left: 2em;
   }
@@ -1532,20 +1532,20 @@ form .field-btn input{
   }
 }
 
-@media (max-width:370px) {
-  .service-items{
-    padding-left: 0em;
-  }
-}
-
-
-@media (max-width:300px) {
+@media (max-width:320px) {
   .service-items{
     padding-left: 1em;
   }
 }
 
-@media (max-width:280px) {
+
+@media (max-width:360px) {
+  .services .service-item .card {
+    width: 300px;
+  }
+}
+
+@media (max-width:310px) {
   .services .service-item .card {
     width: 250px;
   }
